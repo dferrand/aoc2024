@@ -1,0 +1,14 @@
+{
+    "description": "aoc2024",
+    "version": "1.0.0",
+    "license": "",
+    "repository": "https://github.com/dferrand/aoc2024",
+    "includePath": [],
+    "objlib": "&prjlib",
+    "curlib": "&prjlib",
+    "preUsrLibl": [],
+    "postUsrLibl": [],
+    "setIBMiEnvCmd": [],
+    "tgtCcsid": "*JOB",
+    "extensions": {}
+}
